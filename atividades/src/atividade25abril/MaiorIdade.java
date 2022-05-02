@@ -15,7 +15,7 @@ public class MaiorIdade {
 			System.out.println(nome + "voce já é maior de idade. tem " + idade + " anos");
 		}
 		else {
-			System.out.println(nome + "voce ainda não tem 18 anos, mas sim, " + idade + " anos");
+			System.out.println(nome + " você ainda não tem 18 anos, mas sim, " + idade + " anos");
 		}
 		teclado.close();
 	}
